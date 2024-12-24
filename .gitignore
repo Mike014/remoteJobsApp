@@ -10,9 +10,6 @@ __pycache__/
 instance/
 .env
 
-# File di database locale (non necessario su Render)
-*.db
-
 # File di log (solo per uso locale)
 *.log
 
