@@ -1,0 +1,33 @@
+# Ambiente virtuale (non necessario su Render)
+venv/
+
+# File Python compilati
+*.pyc
+*.pyo
+__pycache__/
+
+# Configurazioni locali e file sensibili
+instance/
+.env
+
+# File di database locale (non necessario su Render)
+*.db
+
+# File di log (solo per uso locale)
+*.log
+
+# File temporanei
+*.tmp
+*.swp
+
+# File generati da IDE/Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Escludere dipendenze specifiche del sistema locale
+.DS_Store
+Thumbs.db
+
+
