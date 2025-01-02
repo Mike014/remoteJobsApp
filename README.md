@@ -1,4 +1,4 @@
-# Remote Jobs App
+# Remote Jobs App [![Sponsor](https://img.shields.io/badge/Sponsor%20Me!-blue?style=for-the-badge)](https://github.com/sponsors/Mike014)
 
 A Flask-based web application to explore companies offering remote jobs.
 
