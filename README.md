@@ -7,8 +7,13 @@ A Flask-based web application to explore companies offering remote jobs.
 - **API Access**: Fetch company data through a RESTful API.
 - **Interactive Design**: Built with Flask and styled using Bootstrap.
 
-## Link 
-[https://remotejobsapp.onrender.com/](https://remotejobsapp.onrender.com/)
+## Job Board
+
+The job database is loading — this may take a few seconds.
+
+[Open Job Board](https://remotejobsapp-production.up.railway.app/)
+
+> **Note:** The database spins down when inactive. If the page is empty on first load, wait 10–15 seconds and refresh.
 
 ## Try to add AdSense 
 Attempted to integrate Google AdSense by adding the required script and ad container, but the changes did not reflect in the live deployment, and verification failed.
