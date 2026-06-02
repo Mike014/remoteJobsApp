@@ -8,7 +8,7 @@ A Flask-based web application to explore companies offering remote jobs.
 - **Interactive Design**: Built with Flask and styled using Bootstrap.
 
 ## Link 
-https://remotejobsapp.onrender.com/
+[https://remotejobsapp.onrender.com/](https://remotejobsapp.onrender.com/)
 
 ## Try to add AdSense 
 Attempted to integrate Google AdSense by adding the required script and ad container, but the changes did not reflect in the live deployment, and verification failed.
